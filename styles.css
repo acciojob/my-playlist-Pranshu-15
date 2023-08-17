@@ -1,1 +1,47 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#cccccc;
+}
+h1, h2{
+	text-align:center;
+}
+.div1 {
+    height: 140px;
+    width: 90vw;
+    border: 1px solid black;
+    background: white;
+    margin-left: 10px;
+    border-radius: 7px;
+}
+li>a{
+	text-decoration: none;
+	color:black;
+}
+li{
+	list-style:none;
+	padding:1px
+}
+.player_one{
+	background-color: rgb(255, 255, 255);
+	margin-left:20px;
+	padding: 20px;
+	border-radius:7px;
+	width:70vw;;
+	height:80vh;
+}
+.div2 {
+    height: 120vh;
+    width: 80vw;
+    border: 1px solid black;
+    background: white;
+    margin-left: 10px;
+    border-radius: 7px;
+    margin-left: 48px;
+}
+.player_two{
+	background-color: rgb(255, 255, 255);
+	width:72vw;
+	padding: 20px;
+	border-radius:7px;
+	
+}
